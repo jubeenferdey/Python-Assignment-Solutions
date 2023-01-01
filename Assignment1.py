@@ -16,11 +16,11 @@ for i in string:
 letters = upperCase + lowerCase
         
 
-print("The number of lowercase characters is:")
-print(lowerCase)
-print("The number of uppercase characters is:")
-print(upperCase)
-print("The Number of Digits in the Sentence is: ")
-print(digits)
-print("The Number of Letters in the Sentence is: ")
-print(letters)
+print(f"The number of lowercase characters is: {lowerCase}")
+# print(lowerCase)
+print(f"The number of uppercase characters is: {upperCase}")
+# print(upperCase)
+print(f"The Number of Digits in the Sentence is: {digits}")
+# print(digits)
+print(f"The Number of Letters in the Sentence is: {letters}")
+# print(letters)
